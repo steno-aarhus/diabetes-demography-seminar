@@ -1,0 +1,55 @@
+---
+title: "Diabetes Demography Seminar 13-06-2025"
+format: html
+editor: visual
+---
+
+## Background
+
+As diabetes prevalence increases globally, there is an increasing need to have up to date insights into the key numbers that define the direction of our public health policies and setup of clinical attention.
+
+Demographic analyses based on routinely registered data with population-wide coverage have provided an excellent way of obtaining these important insights. However, even amongst countries with well-developed register systems there are differences that make it difficult to generate direct comparisons.
+
+Furthermore, as new specific areas of attention develop and new data sources become available, coordination and joint development of methods and expertise is necessary. This 1-day symposium aims to explore some of these themes by presenting the experiences of some of the global experts in the field. The expectation is that the discussions that emerge from the symposium will serve to define a roadmap for standardization, development of methods, education and joint research in the field.
+
+## Location
+
+::: callout-note
+## Aarhus University
+
+Eduard Biermann Auditorium [(Building 1252, Room 204)](https://www.au.dk/om/organisation/find-au/bygningskort/)
+
+Bartholins Allé 3
+
+8000 Aarhus C, Denmark
+:::
+
+## Speakers
+
+| Name | Affiliation | Status |
+|-------------------|-------------------------------|----------------------|
+| Prof. Sarah Wild | University of Edinburgh, UK | confirmed |
+| Prof. Dianna Magliano | Baker Heart and Diabetes Institute, Melbourne, Australia (and visiting professor in Denmark in 2025) | confirmed |
+| Prof. Edward Gregg | Imperial College London, UK and Royal College of Surgeons in Ireland, Dublin, Ireland | confirmed |
+| Mr. Bendix Carstensen | Steno Diabetes Center Copenhagen | confirmed |
+| Dr. John Cooper | Stavanger University Hospital, Stavanger, Norway | invited |
+
+## Program (draft)
+
+| Start | End | Title | Speaker |
+|----------------|----------------|--------------------|---------------------|
+| *09:30* | *10:00* | *Coffee* | *-* |
+| 10:00 | 10:15 | Welcome and Introduction | Daniel Witte / Henrik Støvring |
+| 10:15 | 10:50 |  | Dianna Magliano |
+| 10:50 | 11:25 |  | John Cooper |
+| 11:25 | 12:00 |  | Sarah Wild |
+| *12:00* | *13:00* | *Lunch* | *-* |
+| 13:00 | 13:15 | Short Presentation 1 | Young researcher 1 |
+| 13:15 | 13:30 | Short Presentation 2 | Young researcher 2 |
+| 13:30 | 13:45 | Short Presentation 3 | Young researcher 3 |
+| 13:45 | 14:00 | Short Presentation 4 | Young researcher 4 |
+| 14:00 | 14:35 |  | Edward Gregg |
+| *14:35* | *15:00* | *Coffee* | *-* |
+| 15:00 | 15:35 |  | Bendix Carstensen |
+| 15:35 | 16:15 | Discussion: What is the roadmap for future collaboration on this work? | All |
+| 16:15 |  | Final words and end of seminar |  |
