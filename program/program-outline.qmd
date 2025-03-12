@@ -27,7 +27,7 @@ Bartholins Allé 3
 ## Speakers
 
 | Name | Affiliation | Status |
-|-------------------|-------------------------------|----------------------|
+|----|----|----|
 | Prof. Sarah Wild | University of Edinburgh, UK | confirmed |
 | Prof. Dianna Magliano | Baker Heart and Diabetes Institute, Melbourne, Australia (and visiting professor in Denmark in 2025) | confirmed |
 | Prof. Edward Gregg | Imperial College London, UK and Royal College of Surgeons in Ireland, Dublin, Ireland | confirmed |
@@ -37,7 +37,7 @@ Bartholins Allé 3
 ## Program (draft)
 
 | Start | End | Title | Speaker |
-|----------------|----------------|--------------------|---------------------|
+|----|----|----|----|
 | *09:30* | *10:00* | *Coffee* | *-* |
 | 10:00 | 10:15 | Welcome and Introduction | Daniel Witte / Henrik Støvring |
 | 10:15 | 10:50 |  | Dianna Magliano |

@@ -1,0 +1,52 @@
+---
+title: "Diabetes Demography Seminar"
+format: docx
+editor: visual
+---
+
+## Outline of application to the NNF
+
+::: callout-important
+## Deadline: 31-03-2025 at 14:00
+
+Call: [Conferences, Symposia and Workshops 2025-1](https://novonordiskfonden.dk/grant/conferences-symposia-and-workshops-2025-1/)
+
+Guidance: [Guidelines for Applicants](https://novonordiskfonden.dk//app/uploads/Information-and-Guidelines-for-applicants-Conferences-Symposia-and-Workshops-2025-1-1.pdf)
+:::
+
+::: callout-note
+Headings below have been copied from the NNF guidelines document
+:::
+
+## Project Title (maximum 150 characters, including spaces).
+
+## Project Description (maximum 10,000 characters, including spaces, line breaks and special characters)
+
+-   Purpose of the event
+
+-   Draft programme, in as much detail as possible
+
+-   Invited speakers, indicating who have already confirmed
+
+-   A maximum of four illustrations can be uploaded
+
+## References (maximum 4,000 characters, including spaces, line breaks and special characters)
+
+## Lay Project Description (maximum 1,000 characters)
+
+-   Brief summary in lay language describing purpose, activity and target group.
+
+## Budget (enter a project period of minimum 6 months, not a single date)
+
+| Item               | Units | Unit price | Price | Remarks                 |
+|--------------------|-------|------------|-------|-------------------------|
+| Travel: Europe     | 5     | 7000       | 35000 |                         |
+| Travel: Denmark    | 3     | 1000       | 3000  |                         |
+| Hotel for speakers | 16    | 1250       | 20000 | 2 nights for 8 speakers |
+| Lunch and Coffee   | 40    | 250        | 10000 |                         |
+|                    |       |            |       |                         |
+| Total              |       |            | 68000 |                         |
+|                    |       |            |       |                         |
+|                    |       |            |       |                         |
+|                    |       |            |       |                         |
+|                    |       |            |       |                         |
