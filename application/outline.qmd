@@ -20,21 +20,79 @@ Headings below have been copied from the NNF guidelines document
 
 ## Project Title (maximum 150 characters, including spaces).
 
+DiaDEM -Diabetes Demography Epidemiology Meeting
+
 ## Project Description (maximum 10,000 characters, including spaces, line breaks and special characters)
 
--   Purpose of the event
+As diabetes prevalence rises globally, particularly in the Western world, changing patterns of disease and treatment have reshaped the landscape of diabetes care. Intensive preventive cardiometabolic treatments have significantly reduced cardiovascular mortality over the past two decades, allowing people with diabetes to live longer. This shift highlights the growing need for up-to-date insights into:
 
--   Draft programme, in as much detail as possible
+-   The evolving occurrence of diabetes-related complications
 
--   Invited speakers, indicating who have already confirmed
+-   The quality and effectiveness of healthcare services
 
--   A maximum of four illustrations can be uploaded
+-   The impact of public health policies on diabetes outcomes
+
+Given that diabetes is a lifelong condition, understanding its impact at a population level requires robust demographic analyses based on national and population-wide registries. Such approaches enable valuable cross-national comparisons, allowing researchers and policymakers to:
+
+-   Identify best-practice scenarios in diabetes care
+
+-   Recognize challenges in different healthcare settings
+
+-   Assess how interventions and treatment changes over time influence trends in comorbidities and mortality
+
+However, meaningful comparisons between countries are often complicated by differences in healthcare systems, societal structures, and data registration practices. To foster international collaboration and facilitate future comparative research, we are aiming to organize a Diabetes Demography Symposium in Aarhus. This one-day event will bring together leading international experts in diabetes epidemiology and registry-based research, to discuss how routine data sources can be leveraged to improve understanding and guide better diabetes care. Through expert presentations and discussions, we will explore key questions such as:
+
+-   How can routine lab registers help estimate the incidence of pre-diabetes?
+
+-   Can we refine prevalence and incidence estimates of specific type 2 diabetes subtypes?
+
+-   What steps can be taken to standardize methods for assessing diabetes care quality across countries?
+
+-   Should we extend our scope beyond traditional complications to include outcomes such as cancer and multimorbidity?
+
+-   How can routine registers be utilized for diabetes risk prediction?
+
+-   What are the challenges in integrating register-based insights into routine patient care?
+
+By fostering interdisciplinary dialogue, this symposium aims to advance international research collaborations, improve data harmonization, and strengthen the role of demographic analyses in shaping the future of diabetes care and to inform diabetes policies in public health.
+
+## Draft programme, in as much detail as possible
+
+| Start | End | Title | Speaker |
+|----|----|----|----|
+| *09:30* | *10:00* | *Coffee* | *-* |
+| 10:00 | 10:15 | Welcome and Introduction | Daniel Witte |
+| 10:15 | 10:50 |  | Dianna Magliano |
+| 10:50 | 11:25 |  | Henrik Støvring |
+| 11:25 | 12:00 |  | Sarah Wild |
+| *12:00* | *13:00* | *Lunch* | *-* |
+| 13:00 | 13:15 | Short Presentation 1 | Young researcher 1 |
+| 13:15 | 13:30 | Short Presentation 2 | Young researcher 2 |
+| 13:30 | 13:45 | Short Presentation 3 | Young researcher 3 |
+| 13:45 | 14:00 | Short Presentation 4 | Young researcher 4 |
+| 14:00 | 14:35 |  | Edward Gregg |
+| *14:35* | *15:00* | *Coffee* | *-* |
+| 15:00 | 15:35 |  | Bendix Carstensen |
+| 15:35 | 16:15 | Discussion: What is the roadmap for future collaboration on this work? | All |
+| 16:15 |  | Final words and end of seminar |  |
+
+## Speakers
+
+| Name | Affiliation | Status |
+|----|----|----|
+| Prof. Sarah Wild | University of Edinburgh, UK | confirmed |
+| Prof. Dianna Magliano | Baker Heart and Diabetes Institute, Melbourne, Australia (and visiting professor in Denmark in 2025) | confirmed |
+| Prof. Edward Gregg | Imperial College London, UK and Royal College of Surgeons in Ireland, Dublin, Ireland | confirmed |
+| Mr. Bendix Carstensen | Steno Diabetes Center Copenhagen | confirmed |
+| Prof. Henrik Støvring | Steno Diabetes Center Aarhus | confirmed |
+
+## A maximum of four illustrations can be uploaded
 
 ## References (maximum 4,000 characters, including spaces, line breaks and special characters)
 
 ## Lay Project Description (maximum 1,000 characters)
 
--   Brief summary in lay language describing purpose, activity and target group.
+The Diabetes Demography Symposium - Understanding Diabetes Through Population Data. Diabetes is a growing global health issue, and as treatments improve, people are living longer with the condition. This means we need better ways to track how diabetes affects people over their entire lifecourse, how healthcare systems are responding, and what policies work best. The Diabetes Demography Symposium (DDS) brings together international experts to explore how healthcare data—such as patient records and national health registries—can help us answer these important questions. By comparing data across countries, we can identify what works best, where challenges exist, and how treatments impact long-term health. However, different healthcare systems and data collection methods make comparisons difficult. This symposium aims to improve collaboration, share insights, and find ways to use data more effectively to improve diabetes care worldwide.
 
 ## Budget (enter a project period of minimum 6 months, not a single date)
 
@@ -46,7 +104,3 @@ Headings below have been copied from the NNF guidelines document
 | Lunch and Coffee   | 40    | 250        | 10000 |                         |
 |                    |       |            |       |                         |
 | Total              |       |            | 68000 |                         |
-|                    |       |            |       |                         |
-|                    |       |            |       |                         |
-|                    |       |            |       |                         |
-|                    |       |            |       |                         |
