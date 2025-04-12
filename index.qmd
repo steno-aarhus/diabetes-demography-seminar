@@ -1,28 +1,51 @@
 ---
-title: "Diabetes Demography Seminar 13-06-2025"
-format: html
-editor: visual
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-## Background
+# Welcome to the 2025 Steno Aarhus Diabetes Demography Symposium
 
-As diabetes prevalence increases globally, there is an increasing need to have up to date insights into the key numbers that define the direction of our public health policies and setup of clinical attention.
+## Date and time
 
-Demographic analyses based on routinely registered data with population-wide coverage have provided an excellent way of obtaining these important insights. However, even amongst countries with well-developed register systems there are differences that make it difficult to generate direct comparisons.
+::: callout-note
+🗓 13 June 2025
 
-Furthermore, as new specific areas of attention develop and new data sources become available, coordination and joint development of methods and expertise is necessary. This 1-day symposium aims to explore some of these themes by presenting the experiences of some of the global experts in the field. The expectation is that the discussions that emerge from the symposium will serve to define a roadmap for standardization, development of methods, education and joint research in the field.
+🕰️ 09:30 - 16:30
+:::
 
 ## Location
 
 ::: callout-note
-## Aarhus University
+## 🏛️ Aarhus University
 
-Eduard Biermann Auditorium [(Building 1252, Room 204)](https://www.au.dk/om/organisation/find-au/bygningskort/)
+Eduard Biermann Auditorium [(Building 1252, Room
+204)](https://www.au.dk/om/organisation/find-au/bygningskort/)
 
 Bartholins Allé 3
 
 8000 Aarhus C, Denmark
 :::
+
+## Background
+
+As diabetes prevalence increases globally, there is an increasing need
+to have up to date insights into the key numbers that define the
+direction of our public health policies and setup of clinical attention.
+
+Demographic analyses based on routinely registered data with
+population-wide coverage have provided an excellent way of obtaining
+these important insights. However, even amongst countries with
+well-developed register systems there are differences that make it
+difficult to generate direct comparisons.
+
+Furthermore, as new specific areas of attention develop and new data
+sources become available, coordination and joint development of methods
+and expertise is necessary. This 1-day symposium aims to explore some of
+these themes by presenting the experiences of some of the global experts
+in the field. The expectation is that the discussions that emerge from
+the symposium will serve to define a roadmap for standardization,
+development of methods, education and joint research in the field.
 
 ## Speakers
 
@@ -54,4 +77,8 @@ Bartholins Allé 3
 | 15:35 | 16:15 | Discussion: What is the roadmap for future collaboration on this work? | All |
 | 16:15 |  | Final words and end of seminar |  |
 
+### The target audience
 
+Researchers (including PhD students and postdoctoral researchers)
+working with register-based and epidemiological studies of diabetes, its
+causes and consequences at the population level.

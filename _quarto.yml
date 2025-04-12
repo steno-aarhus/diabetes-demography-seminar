@@ -1,0 +1,42 @@
+project:
+  type: book
+  # pre-render: quarto render slides/*.qmd
+  # resources:
+  #   - slides/*.html
+
+book:
+  title: "Aarhus Diabetes Demography Symposium 2025"
+  author:
+    - Daniel Witte
+    - Tinne Laurberg
+    - Henrik Støvring
+  date: last-modified
+  repo-url: https://github.com/steno-aarhus/diabetes-demography-seminar
+  site-url: https://steno-aarhus.github.io/diabetes-demography-seminar
+  chapters:
+    - index.qmd
+    - part: "Speaker Profiles"
+      chapters:
+      - profiles.qmd
+    - part: "Materials"
+      chapters:
+      - materials.qmd
+    
+  page-footer:
+    center:
+      - text: "License: CC BY 4.0"
+
+bibliography:
+  - includes/papers.bib
+csl: includes/the-american-journal-of-clinical-nutrition.csl
+
+
+format: html
+
+editor:
+  markdown:
+    wrap: 72
+    canonical: true
+    
+execute:
+  freeze: false

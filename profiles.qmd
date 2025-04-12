@@ -1,0 +1,70 @@
+---
+title: "Speaker Profiles"
+editor: visual
+---
+
+## Short speaker profiles
+
+### Prof. Dianna Magliano, PhD, OAM
+
+Professor Dianna Magliano has a BAppSci (Hons), PhD, and a Master of
+Public Health. Professor Magliano has worked for over 20 years in
+epidemiology, the majority in diabetes, cardiovascular disease and
+obesity research. Her more recent work involves exploring the trends in
+diabetes incidence, diabetes complications and mortality across the
+globe and she heads a consortium of 24 collaborators to do this work.
+She is the current co-chair of the IDF Diabetes Atlas and is an
+Associate Editor for Diabetologia and a visiting professor at Steno
+Diabetes Center Copenhagen on the project - Harnessing Multiple Large
+Datasets to Answer Questions on Diabetes Epidemiology – International
+Centre for Population-Based Diabetes Research (IPoD) funded by the DDEA
+(Danish Diabetes and Endocrine Academy).
+
+### Mr. Bendix Carstensen, MSc.
+
+Bendix Carstensen has been a senior statistician at Steno Diabetes
+Center Copenhagen since 1999. He holds a degree in mathematical
+statistics from the University of Copenhagen. He has mostly worked with
+demographic aspects of diabetes, including maintaining a Danish diabetes
+register. He is the maintainer of the Epi package for R and the author
+of "Epidemiology with R" (OUP, 2021). He has extensive experience with
+international collaborations on monitoring and modelling of diabetes
+epidemiology and demography. Current H-index: 59
+
+### Dr. Edward W Gregg, PhD
+
+Edward Gregg holds dual appointments at Imperial College London, UK
+(School of Public Health), and the Royal College of Surgeons in Ireland.
+He previously led a multi-disciplinary public health science unit in the
+Division of Diabetes Translation at the U.S. Centers for Disease Control
+and Prevention where he championed the role of epidemiology for public
+health decision-making through diverse disciplines, including population
+surveillance, effectiveness trials, natural experiments, and health
+impact modelling. He has particular interests in the factors driving
+recent trends in the diabetes epidemic and the impact of lifestyle
+interventions and related health policies on diabetes, cardiovascular
+disease, and ageing-related outcomes.
+
+### Prof. Henrik Støvring, PhD
+
+Henrik Støvring has investigated the diabetes epidemic in Denmark during
+the 1990s using pharmacoepidemiologic data and showed how projections of
+future prevalence must incorporate developments in both incidence and
+mortality. He has developed new statistical methods for analyses with
+pharmacoepidemiologic data and has been leading research on the effects
+of screening for cancer and developments in diabetes mortality. Current
+H-index: 34.
+
+### Prof. Sarah Wild, PhD
+
+Sarah Wild is professor of Epidemiology at the Centre for Population
+Health Sciences, University of Edinburgh. Her main interests are the
+epidemiology and prevention of diabetes and other non-communicable
+diseases, particularly among women and different socio-economic and
+ethnic groups, and the use of routine data for research. Sarah Wild did
+her medical training in London and Cambridge. Her postgraduate
+experience included general medicine and diabetes, general practice and
+public health medicine, a cardiovascular epidemiology fellowship at
+Stanford University and a PhD at the London School of Hygiene and
+Tropical Medicine. She is one of the leading forced behind the SCI
+Diabetes register that covers all diabetes patients in Scotland.

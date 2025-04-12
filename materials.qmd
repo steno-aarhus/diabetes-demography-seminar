@@ -1,0 +1,13 @@
+---
+title: "Materials"
+editor: visual
+---
+
+## Background materials for the Diabetes Demography Symposium
+
+This page will contain the materials participants will be asked to go
+through before attending the symposium. This may contain references to
+background reading, links to code or examples of particular types of
+analyes.
+
+## Background Reading
