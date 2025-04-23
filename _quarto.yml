@@ -1,8 +1,5 @@
 project:
   type: book
-  # pre-render: quarto render slides/*.qmd
-  # resources:
-  #   - slides/*.html
 
 book:
   title: "Aarhus Diabetes Demography Symposium 2025"
@@ -24,12 +21,10 @@ book:
     
   page-footer:
     center:
-      - text: "License: CC BY 4.0"
+      - text: "License: CC-BY 4.0"
 
-bibliography:
-  - includes/papers.bib
-csl: includes/the-american-journal-of-clinical-nutrition.csl
-
+# bibliography: includes/papers.bib
+# csl: includes/the-american-journal-of-clinical-nutrition.csl
 
 format: html
 
@@ -38,5 +33,3 @@ editor:
     wrap: 72
     canonical: true
     
-execute:
-  freeze: false
