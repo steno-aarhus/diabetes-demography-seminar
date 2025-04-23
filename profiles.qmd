@@ -1,11 +1,6 @@
----
-title: "Speaker Profiles"
-editor: visual
----
+# Speaker Profiles
 
-## Short speaker profiles
-
-### Prof. Dianna Magliano, PhD, OAM
+## Prof. Dianna Magliano, PhD, OAM
 
 Professor Dianna Magliano has a BAppSci (Hons), PhD, and a Master of
 Public Health. Professor Magliano has worked for over 20 years in
@@ -20,7 +15,7 @@ Datasets to Answer Questions on Diabetes Epidemiology – International
 Centre for Population-Based Diabetes Research (IPoD) funded by the DDEA
 (Danish Diabetes and Endocrine Academy).
 
-### Mr. Bendix Carstensen, MSc.
+## Mr. Bendix Carstensen, MSc.
 
 Bendix Carstensen has been a senior statistician at Steno Diabetes
 Center Copenhagen since 1999. He holds a degree in mathematical
@@ -31,7 +26,7 @@ of "Epidemiology with R" (OUP, 2021). He has extensive experience with
 international collaborations on monitoring and modelling of diabetes
 epidemiology and demography. Current H-index: 59
 
-### Dr. Edward W Gregg, PhD
+## Dr. Edward W Gregg, PhD
 
 Edward Gregg holds dual appointments at Imperial College London, UK
 (School of Public Health), and the Royal College of Surgeons in Ireland.
@@ -45,7 +40,7 @@ recent trends in the diabetes epidemic and the impact of lifestyle
 interventions and related health policies on diabetes, cardiovascular
 disease, and ageing-related outcomes.
 
-### Prof. Henrik Støvring, PhD
+## Prof. Henrik Støvring, PhD
 
 Henrik Støvring has investigated the diabetes epidemic in Denmark during
 the 1990s using pharmacoepidemiologic data and showed how projections of
