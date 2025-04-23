@@ -1,10 +1,4 @@
----
-editor: 
-  markdown: 
-    wrap: 72
----
-
-# Welcome to the 2025 Steno Aarhus Diabetes Demography Symposium
+# Welcome!
 
 ## Date and time
 
@@ -16,7 +10,7 @@ editor:
 
 ## Location
 
-::: callout-note
+::: {.callout-note icon="false"}
 ## 🏛️ Aarhus University
 
 Eduard Biermann Auditorium [(Building 1252, Room
@@ -50,7 +44,7 @@ development of methods, education and joint research in the field.
 ## Speakers
 
 | Name | Affiliation | Status |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Prof. Sarah Wild | University of Edinburgh, UK | confirmed |
 | Prof. Dianna Magliano | Baker Heart and Diabetes Institute, Melbourne, Australia (and visiting professor in Denmark in 2025) | confirmed |
 | Prof. Edward Gregg | Imperial College London, UK and Royal College of Surgeons in Ireland, Dublin, Ireland | confirmed |
@@ -60,7 +54,7 @@ development of methods, education and joint research in the field.
 ## Program (draft)
 
 | Start | End | Title | Speaker |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | *09:30* | *10:00* | *Coffee* | *-* |
 | 10:00 | 10:15 | Welcome and Introduction | Daniel Witte / Henrik Støvring |
 | 10:15 | 10:50 |  | Dianna Magliano |
@@ -76,6 +70,8 @@ development of methods, education and joint research in the field.
 | 15:00 | 15:35 |  | Bendix Carstensen |
 | 15:35 | 16:15 | Discussion: What is the roadmap for future collaboration on this work? | All |
 | 16:15 |  | Final words and end of seminar |  |
+
+: Potential schedule {tbl-colwidths="\[15,15,40,30\]" .striped}
 
 ### The target audience
 
