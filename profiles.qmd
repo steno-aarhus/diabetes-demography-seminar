@@ -1,6 +1,12 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
 # Speaker Profiles
 
-## Prof. Dianna Magliano, PhD, OAM
+## Prof. Dianna Magliano, PhD, OAM {#sec-Magliano}
 
 Professor Dianna Magliano has a BAppSci (Hons), PhD, and a Master of
 Public Health. Professor Magliano has worked for over 20 years in
@@ -15,7 +21,7 @@ Datasets to Answer Questions on Diabetes Epidemiology – International
 Centre for Population-Based Diabetes Research (IPoD) funded by the DDEA
 (Danish Diabetes and Endocrine Academy).
 
-## Mr. Bendix Carstensen, MSc.
+## Mr. Bendix Carstensen, MSc. {#sec-Carstensen}
 
 Bendix Carstensen has been a senior statistician at Steno Diabetes
 Center Copenhagen since 1999. He holds a degree in mathematical
@@ -24,9 +30,9 @@ demographic aspects of diabetes, including maintaining a Danish diabetes
 register. He is the maintainer of the Epi package for R and the author
 of "Epidemiology with R" (OUP, 2021). He has extensive experience with
 international collaborations on monitoring and modelling of diabetes
-epidemiology and demography. Current H-index: 59
+epidemiology and demography.
 
-## Dr. Edward W Gregg, PhD
+## Dr. Edward W Gregg, PhD {#sec-Gregg}
 
 Edward Gregg holds dual appointments at Imperial College London, UK
 (School of Public Health), and the Royal College of Surgeons in Ireland.
@@ -40,17 +46,16 @@ recent trends in the diabetes epidemic and the impact of lifestyle
 interventions and related health policies on diabetes, cardiovascular
 disease, and ageing-related outcomes.
 
-## Prof. Henrik Støvring, PhD
+## Prof. Henrik Støvring, PhD {#sec-Støvring}
 
 Henrik Støvring has investigated the diabetes epidemic in Denmark during
 the 1990s using pharmacoepidemiologic data and showed how projections of
 future prevalence must incorporate developments in both incidence and
 mortality. He has developed new statistical methods for analyses with
 pharmacoepidemiologic data and has been leading research on the effects
-of screening for cancer and developments in diabetes mortality. Current
-H-index: 34.
+of screening for cancer and developments in diabetes mortality.
 
-## Prof. Sarah Wild, PhD
+## Prof. Sarah Wild, PhD {#sec-Wild}
 
 Sarah Wild is professor of Epidemiology at the Centre for Population
 Health Sciences, University of Edinburgh. Her main interests are the
@@ -63,3 +68,15 @@ public health medicine, a cardiovascular epidemiology fellowship at
 Stanford University and a PhD at the London School of Hygiene and
 Tropical Medicine. She is one of the leading forced behind the SCI
 Diabetes register that covers all diabetes patients in Scotland.
+
+## Prof. Daniel R. Witte, PhD {#sec-Witte}
+
+Daniel Witte is professor of Diabetes Epidemiology at Aarhus University
+and Steno Diabetes Center Aarhus. He focuses mainly on the
+pathophysiological mechanisms that drive the transition from normal
+glucose control to pre-diabetes and diabetes at the population level.
+Additional work includes early stages of diabetic complications, their
+management, and long-term consequences. He has a special focus on
+longitudinal trajectory analyses and clustering of diabetic
+complications and risk factors. He is the Principal Investigator of the
+[DP-Next project](https://dp-next.github.io/).
