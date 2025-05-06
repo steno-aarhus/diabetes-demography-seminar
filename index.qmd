@@ -6,6 +6,19 @@ editor:
 
 # Welcome!
 
+::: {.callout-important icon="false"}
+## ✍ Registration is now open!
+
+Please follow this [link to
+register](https://rm.plan2learn.dk/kursusvalg.aspx?id=133889) for the
+symposium. During registration, you can indicate whether you would like
+to give a short, 10 minute presentation on your work related to diabetes
+registers, demography, or related methods.
+
+If it turns out that you will not be able to attend after you have
+registered, please do not forget to cancel your registration.
+:::
+
 ## Date and time
 
 ::: callout-note
@@ -93,15 +106,4 @@ causes and consequences at the population level.
 
 : Speaker list {tbl-colwidths="\[30,50\]" .striped}
 
-::: {.callout-important icon="false"}
-## ✍ Registration
 
-Please follow this [link to
-register](https://rm.plan2learn.dk/kursusvalg.aspx?id=133889) for the
-symposium. During registration, you can indicate whether you would like
-to give a short, 10 minute presentation on your work related to diabetes
-registers, demography, or related methods.
-
-If it turns out that you will not be able to attend after you have
-registered, please do not forget to cancel your registration.
-:::
