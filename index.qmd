@@ -26,8 +26,7 @@ Bartholins Allé 3
 
 8000 Aarhus C, Denmark
 
-![Lakeside Auditoriums at Aarhus University. \[Image from
-WikiMedia\](https://commons.wikimedia.org/wiki/File:S%C3%B8auditorierne\_(maj_01).jpg)](/images/søauditorierne.jpg){#fig-auditoriums}
+![Lakeside Auditoriums at Aarhus University. [Image from WikiMedia](https://commons.wikimedia.org/wiki/File:S%C3%B8auditorierne\_(maj_01).jpg)](/images/søauditorierne.jpg){#fig-auditoriums}
 :::
 
 ## Background
@@ -95,7 +94,7 @@ causes and consequences at the population level.
 : Speaker list {tbl-colwidths="\[30,50\]" .striped}
 
 ::: {.callout-important icon="false"}
-## ✍ [Registration](https://rm.plan2learn.dk/kursusvalg.aspx?id=133889)
+## ✍ Registration
 
 Please follow this [link to
 register](https://rm.plan2learn.dk/kursusvalg.aspx?id=133889) for the
