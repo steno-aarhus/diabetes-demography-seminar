@@ -26,8 +26,8 @@ Bartholins Allé 3
 
 8000 Aarhus C, Denmark
 
-[![Lakeside Auditoriums at Aarhus University. \[Image from
-WikiMedia\](https://commons.wikimedia.org/wiki/File:S%C3%B8auditorierne\_(maj_01).jpg)](/images/søauditorierne.jpg){#fig-auditoriums}](https://commons.wikimedia.org/wiki/File:S%C3%B8auditorierne_(maj_01).jpg)
+![Lakeside Auditoriums at Aarhus University. \[Image from
+WikiMedia\](https://commons.wikimedia.org/wiki/File:S%C3%B8auditorierne\_(maj_01).jpg)](/images/søauditorierne.jpg){#fig-auditoriums}
 :::
 
 ## Background
@@ -59,7 +59,7 @@ causes and consequences at the population level.
 ## Program (draft)
 
 | Start | End | Title | Speaker |
-|------------------|------------------|--------------------|------------------|
+|------------------|------------------|-------------------|------------------|
 | *09:30* | *10:00* | *Coffee* | *-* |
 | 10:00 | 10:15 | Welcome and Introduction | Daniel Witte / Henrik Støvring |
 | 10:15 | 10:50 |  | Dianna Magliano |
@@ -81,21 +81,21 @@ causes and consequences at the population level.
 
 : Draft Program {tbl-colwidths="\[10,10,50,30\]" .striped}
 
-### Speakers
+### [Speakers](https://steno-aarhus.github.io/diabetes-demography-seminar/profiles.html)
 
 | Name | Affiliation |
 |--------------------------|----------------------------------------------|
-| Prof. Sarah @Wild | University of Edinburgh, UK |
-| Prof. Dianna @Magliano | Baker Heart and Diabetes Institute, Melbourne, Australia (and visiting professor in Denmark in 2025) |
-| Prof. Edward @Gregg | Imperial College London, UK and Royal College of Surgeons in Ireland, Dublin, Ireland |
-| Mr. Bendix @Carstensen | Steno Diabetes Center Copenhagen |
-| Prof. Henrik @Støvring | Steno Diabetes Center Aarhus |
-| Prof. Daniel @Witte | Aarhus University / Steno Diabetes Center Aarhus |
+| Prof. Sarah Wild | University of Edinburgh, UK |
+| Prof. Dianna Magliano | Baker Heart and Diabetes Institute, Melbourne, Australia (and visiting professor in Denmark in 2025) |
+| Prof. Edward Gregg | Imperial College London, UK and Royal College of Surgeons in Ireland, Dublin, Ireland |
+| Mr. Bendix Carstensen | Steno Diabetes Center Copenhagen |
+| Prof. Henrik Støvring | Steno Diabetes Center Aarhus |
+| Prof. Daniel Witte | Aarhus University / Steno Diabetes Center Aarhus |
 
 : Speaker list {tbl-colwidths="\[30,50\]" .striped}
 
 ::: {.callout-important icon="false"}
-## ✍️ Registration
+## ✍ [Registration](https://rm.plan2learn.dk/kursusvalg.aspx?id=133889)
 
 Please follow this [link to
 register](https://rm.plan2learn.dk/kursusvalg.aspx?id=133889) for the
