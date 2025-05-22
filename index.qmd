@@ -86,7 +86,6 @@ causes and consequences at the population level.
 | 13:30 | 13:40 | Short Presentation 3 | Young researcher 3 |
 | 13:40 | 13:50 | Short Presentation 4 | Young researcher 4 |
 | 13:50 | 14:00 | Short Presentation 5 | Young researcher 5 |
-| 13:50 | 14:00 | Short Presentation 6 | Young researcher 6 |
 | *14:00* | *14:05* | *Very short break* | *-* |
 | 14:05 | 14:20 | Population-wide diabetes risk prediction: Plans for the DP-Next study | Daniel Witte |
 | 14:20 | 14:35 | Methodological challenges of risk prediction for population screening | Henrik Støvring |
@@ -120,5 +119,5 @@ causes and consequences at the population level.
 
 [![](/images/NNF_logo.png){width="300"}](https://novonordiskfonden.dk/)
 
-[![](/images/SDCA_logo.png){width="300"}](https://www.stenoaarhus.dk/research/)
+[![](/images/SDCA_logo.png){width="200"}](https://www.stenoaarhus.dk/research/)
 :::
