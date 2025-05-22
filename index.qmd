@@ -72,7 +72,7 @@ causes and consequences at the population level.
 ## Program (draft)
 
 | Start | End | Title | Speaker |
-|----|----|----|----|
+|------------------|------------------|-------------------|------------------|
 | *09:30* | *10:00* | *Coffee* | *-* |
 | 10:00 | 10:15 | Welcome and Introduction | Daniel Witte / Henrik Støvring |
 | 10:15 | 10:50 |  | Dianna Magliano |
@@ -97,7 +97,7 @@ causes and consequences at the population level.
 ### [Speakers](https://steno-aarhus.github.io/diabetes-demography-seminar/profiles.html)
 
 | Name | Affiliation |
-|----|----|
+|--------------------------|----------------------------------------------|
 | Prof. Sarah Wild | University of Edinburgh, UK |
 | Prof. Dianna Magliano | Baker Heart and Diabetes Institute, Melbourne, Australia (and visiting professor in Denmark in 2025) |
 | Prof. Edward Gregg | Imperial College London, UK and Royal College of Surgeons in Ireland, Dublin, Ireland |
@@ -109,10 +109,12 @@ causes and consequences at the population level.
 
 ### The Aarhus Diabetes Demography Seminar is kindly supported by:
 
+::: {layout="[[1,1], [1,1]]"}
 [![](/images/DDEA_logo.png){width="300"}](https://ddeacademy.dk/)
 
 [![](/images/AU_logo.png){width="300"}](https://ph.au.dk/)
 
 [![](/images/NNF_logo.png){width="300"}](https://novonordiskfonden.dk/)
 
-[![](/images/SDCA_logo.jpg){width="300"}](https://www.stenoaarhus.dk/research/)
+[![](/images/SDCA_logo.png){width="300"}](https://www.stenoaarhus.dk/research/)
+:::
