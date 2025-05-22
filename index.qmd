@@ -39,7 +39,8 @@ Bartholins Allé 3
 
 8000 Aarhus C, Denmark
 
-![Lakeside Auditoriums at Aarhus University. [Image from WikiMedia](https://commons.wikimedia.org/wiki/File:S%C3%B8auditorierne\_(maj_01).jpg)](/images/søauditorierne.jpg){#fig-auditoriums}
+![Lakeside Auditoriums at Aarhus University. [Image from
+WikiMedia](https://commons.wikimedia.org/wiki/File:S%C3%B8auditorierne_(maj_01).jpg)](/images/søauditorierne.jpg){#fig-auditoriums}
 :::
 
 ## Background
@@ -71,12 +72,12 @@ causes and consequences at the population level.
 ## Program (draft)
 
 | Start | End | Title | Speaker |
-|------------------|------------------|-------------------|------------------|
+|----|----|----|----|
 | *09:30* | *10:00* | *Coffee* | *-* |
 | 10:00 | 10:15 | Welcome and Introduction | Daniel Witte / Henrik Støvring |
 | 10:15 | 10:50 |  | Dianna Magliano |
 | 10:50 | 11:25 | Needed evolution of registries to accommodate the changing epidemiology | Edward Gregg |
-| 11:25 | 12:00 |  | Sarah Wild |
+| 11:25 | 12:00 | Linking clinical practice and diabetes epidemiology – the Scottish experience | Sarah Wild |
 | *12:00* | *13:00* | *Lunch* | *-* |
 | 13:00 | 13:10 | Short Presentation 1 | Young researcher 1 |
 | 13:10 | 13:20 | Short Presentation 2 | Young researcher 2 |
@@ -96,7 +97,7 @@ causes and consequences at the population level.
 ### [Speakers](https://steno-aarhus.github.io/diabetes-demography-seminar/profiles.html)
 
 | Name | Affiliation |
-|--------------------------|----------------------------------------------|
+|----|----|
 | Prof. Sarah Wild | University of Edinburgh, UK |
 | Prof. Dianna Magliano | Baker Heart and Diabetes Institute, Melbourne, Australia (and visiting professor in Denmark in 2025) |
 | Prof. Edward Gregg | Imperial College London, UK and Royal College of Surgeons in Ireland, Dublin, Ireland |
@@ -106,4 +107,12 @@ causes and consequences at the population level.
 
 : Speaker list {tbl-colwidths="\[30,50\]" .striped}
 
+### The Aarhus Diabetes Demography Seminar is kindly supported by:
 
+[![](/images/DDEA_logo.png){width="300"}](https://ddeacademy.dk/)
+
+[![](/images/AU_logo.png){width="300"}](https://ph.au.dk/)
+
+[![](/images/NNF_logo.png){width="300"}](https://novonordiskfonden.dk/)
+
+[![](/images/SDCA_logo.jpg){width="300"}](https://www.stenoaarhus.dk/research/)
