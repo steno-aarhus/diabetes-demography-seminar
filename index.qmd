@@ -11,9 +11,9 @@ editor:
 
 Please follow this [link to
 register](https://rm.plan2learn.dk/kursusvalg.aspx?id=133889) for the
-symposium. During registration, you can indicate whether you would like
-to give a short, 10 minute presentation on your work related to diabetes
-registers, demography, or related methods.
+symposium and meeting. During registration, you can indicate whether you
+would like to give a short, 10 minute presentation on your work related
+to diabetes registers, demography, or related methods.
 
 If it turns out that you will not be able to attend after you have
 registered, please do not forget to cancel your registration.
@@ -57,11 +57,12 @@ difficult to generate direct comparisons.
 
 Furthermore, as new specific areas of attention develop and new data
 sources become available, coordination and joint development of methods
-and expertise is necessary. This 1-day symposium aims to explore some of
-these themes by presenting the experiences of some of the global experts
-in the field. The expectation is that the discussions that emerge from
-the symposium will serve to define a roadmap for standardization,
-development of methods, education and joint research in the field.
+and expertise is necessary. This 1-day symposium and meeting aims to
+explore some of these themes by presenting the experiences of some of
+the global experts in the field. The expectation is that the discussions
+that emerge from the symposium and meeting will serve to define a
+roadmap for standardization, development of methods, education and joint
+research in the field.
 
 ### The target audience
 
@@ -74,8 +75,8 @@ causes and consequences at the population level.
 | Start | End | Title | Speaker |
 |------------------|------------------|-------------------|------------------|
 | *09:30* | *10:00* | *Coffee* | *-* |
-| 10:00 | 10:05 | Welcome and Introduction | Daniel Witte |
-| 10:05 | 10:35 |  | Dianna Magliano |
+| 10:00 | 10:05 | Welcome and Introduction | Tinne Laurberg |
+| 10:05 | 10:35 | Estimating diabetes prevalence for the world- The IDF Diabetes Atlas Approach | Dianna Magliano |
 | 10:35 | 11:05 | Needed evolution of registries to accommodate the changing epidemiology | Edward Gregg |
 | *11:05* | *11:10* | *Very short break* | \- |
 | 11:10 | 11:20 | Short Presentation 1 | Young researcher 1 |
@@ -96,7 +97,7 @@ causes and consequences at the population level.
 
 : Draft Program {tbl-colwidths="\[10,10,50,30\]" .striped}
 
-### [Speakers](https://steno-aarhus.github.io/diabetes-demography-seminar/profiles.html)
+## [Speakers](https://steno-aarhus.github.io/diabetes-demography-seminar/profiles.html)
 
 | Name | Affiliation |
 |--------------------------|----------------------------------------------|
@@ -110,7 +111,7 @@ causes and consequences at the population level.
 
 : Speaker list {tbl-colwidths="\[30,50\]" .striped}
 
-### The Aarhus Diabetes Demography Seminar is kindly supported by:
+## The Aarhus Diabetes Demography Seminar is kindly supported by:
 
 ::: {layout="[[1,1], [1,1]]"}
 [![](/images/DDEA_logo.png){width="300"}](https://ddeacademy.dk/)
