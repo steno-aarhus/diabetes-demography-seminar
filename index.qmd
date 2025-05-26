@@ -43,6 +43,15 @@ Bartholins Allé 3
 WikiMedia](https://commons.wikimedia.org/wiki/File:S%C3%B8auditorierne_(maj_01).jpg)](/images/søauditorierne.jpg){#fig-auditoriums}
 :::
 
+::: {.callout-note icon="false"}
+## ️🖥️ Join us Online
+
+The seminar and meeting will also be streamed online for those who
+cannot join us in Aarhus. Please register through the link above and
+write 'online' in the Dietary Requirements field. We will send out the
+full details for joining online closer to the date.
+:::
+
 ## Background
 
 As diabetes prevalence increases globally, there is an increasing need
