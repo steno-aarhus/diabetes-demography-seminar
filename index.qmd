@@ -111,7 +111,7 @@ causes and consequences at the population level.
 
 : Speaker list {tbl-colwidths="\[30,50\]" .striped}
 
-## The Aarhus Diabetes Demography Seminar is kindly supported by:
+## The Aarhus Diabetes Demography Seminar and Meeting is kindly supported by:
 
 ::: {layout="[[1,1], [1,1]]"}
 [![](/images/DDEA_logo.png){width="300"}](https://ddeacademy.dk/)
