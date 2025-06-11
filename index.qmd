@@ -92,7 +92,7 @@ causes and consequences at the population level.
 | 10:05 | 10:35 | Estimating diabetes prevalence for the world- The IDF Diabetes Atlas Approach | Dianna Magliano |
 | 10:35 | 11:05 | New Problems to Solve in the Era of Registry-Driven Diabetes Epidemiology | Edward Gregg |
 | *11:05* | *11:10* | *Very short break* | \- |
-| 11:10 | 11:20 | Examining the Early Impact of the Chronic Disease Management Program on the Incidence of Emergency Hospitalizations Among People with Type 2 Diabetes: Research Design and Preliminary Results | Kevin Mcintyre |
+| 11:10 | 11:20 | Examining the Early Impact of the Chronic Disease Management Program on the Incidence of Emergency Hospitalizations Among People with Type 2 Diabetes: Research Design and Preliminary Results | Kevin McIntyre |
 | 11:20 | 11:30 | Setting the optimal screening interval for diabetic retinopathy using an individualised approach | Sasja Maria Pedersen |
 | 11:30 | 12:00 | Linking clinical practice and diabetes epidemiology – the Scottish experience | Sarah Wild |
 | *12:00* | *13:00* | *Lunch* | *-* |
@@ -111,7 +111,7 @@ causes and consequences at the population level.
 
 : Draft Program {tbl-colwidths="\[10,10,50,30\]" .striped}
 
-## [Speakers](https://steno-aarhus.github.io/diabetes-demography-seminar/profiles.html)
+## [Invited Speakers](https://steno-aarhus.github.io/diabetes-demography-seminar/profiles.html)
 
 | Name | Affiliation |
 |--------------------------|----------------------------------------------|
@@ -124,6 +124,19 @@ causes and consequences at the population level.
 | Prof. Daniel Witte | Aarhus University / Steno Diabetes Center Aarhus |
 
 : Speaker list {tbl-colwidths="\[30,50\]" .striped}
+
+## Short Presentations
+
+| Name | Affiliation |
+|--------------------------|----------------------------------------------|
+| Dr. Kevin McIntyre | RCSI School of Population Health, Ireland |
+| Mrs. Sasja Maria Pedersen | Steno Diabetes Center Copenhagen |
+| Dr. Jens Steen Nielsen | University of Southern Denmark |
+| Dr. Sia Nicolaisen | Department of Clinical Epidemiology, Aarhus University and Aarhus University Hospital |
+| Dr. Jie Zhang | Steno Diabetes Center Aarhus |
+| Dr. Zheer Kejlberg Al-Mashhadi | Steno Diabetes Center Aarhus |
+
+: Short presentation presenter list {tbl-colwidths="\[30,50\]" .striped}
 
 ## The Aarhus Diabetes Demography Seminar and Meeting is kindly supported by:
 
