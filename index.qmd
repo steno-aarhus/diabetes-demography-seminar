@@ -48,8 +48,12 @@ WikiMedia](https://commons.wikimedia.org/wiki/File:S%C3%B8auditorierne_(maj_01).
 
 The seminar and meeting will also be streamed online for those who
 cannot join us in Aarhus. Please register through the link above and
-write 'online' in the Dietary Requirements field. We will send out the
-full details for joining online closer to the date.
+write 'online' in the Dietary Requirements field.
+
+Join us [via
+Zoom](https://aarhusuniversity.zoom.us/j/63499596306?pwd=PgIUPc71Y7x433XgTM7R56dwGK0qpN.1)
+
+Meeting ID: 634 9959 6306 Passcode: 502590
 :::
 
 ## Background
@@ -86,21 +90,22 @@ causes and consequences at the population level.
 | *09:30* | *10:00* | *Coffee* | *-* |
 | 10:00 | 10:05 | Welcome and Introduction | Tinne Laurberg |
 | 10:05 | 10:35 | Estimating diabetes prevalence for the world- The IDF Diabetes Atlas Approach | Dianna Magliano |
-| 10:35 | 11:05 | Needed evolution of registries to accommodate the changing epidemiology | Edward Gregg |
+| 10:35 | 11:05 | New Problems to Solve in the Era of Registry-Driven Diabetes Epidemiology | Edward Gregg |
 | *11:05* | *11:10* | *Very short break* | \- |
-| 11:10 | 11:20 | Short Presentation 1 | Young researcher 1 |
-| 11:20 | 11:30 | Short Presentation 2 | Young researcher 2 |
+| 11:10 | 11:20 | Examining the Early Impact of the Chronic Disease Management Program on the Incidence of Emergency Hospitalizations Among People with Type 2 Diabetes: Research Design and Preliminary Results | Kevin Mcintyre |
+| 11:20 | 11:30 | Setting the optimal screening interval for diabetic retinopathy using an individualised approach | Sasja Maria Pedersen |
 | 11:30 | 12:00 | Linking clinical practice and diabetes epidemiology – the Scottish experience | Sarah Wild |
 | *12:00* | *13:00* | *Lunch* | *-* |
-| 13:00 | 13:30 |  | Hanne Løvdal Gulseth |
-| 13:30 | 13:40 | Short Presentation 3 | Young researcher 3 |
-| 13:40 | 13:50 | Short Presentation 4 | Young researcher 4 |
-| 13:50 | 14:00 | Short Presentation 5 | Young researcher 5 |
+| 13:00 | 13:20 |  | Hanne Løvdal Gulseth |
+| 13:20 | 13:30 | The Danish Centre for Strategic Research in Type 2 Diabetes (DD2) Project Cohort and Biobank | Jens Steen Nielsen |
+| 13:30 | 13:40 | When to start, how to classify, and whom to include: A methodological review of the clone-censor-weight approach evaluating the effect of timing of glucose-lowering treatment initiation | Sia Nicolaisen |
+| 13:40 | 13:50 | The Role of Type 2 Diabetes in Shaping Multimorbidity Progression: Evidence from the UK Biobank Cohort | Jie Zhang |
+| 13:50 | 14:00 | How registries on diabetes medications can help guide us to the future | Zheer Kejlberg Al-Mashhadi |
 | *14:00* | *14:05* | *Very short break* | *-* |
 | 14:05 | 14:20 | Population-wide diabetes risk prediction: Plans for the DP-Next study | Daniel Witte |
 | 14:20 | 14:35 | Methodological challenges of risk prediction for population screening | Henrik Støvring |
 | *14:35* | *15:00* | *Coffee* | *-* |
-| 15:00 | 15:30 |  | Bendix Carstensen |
+| 15:00 | 15:30 | Implication of a diabetes register on demographic measures and models | Bendix Carstensen |
 | 15:30 | 16:15 | Discussion: What is the roadmap for future collaboration on this work? | All |
 | 16:15 |  | Final words and end of seminar |  |
 
