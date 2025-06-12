@@ -96,7 +96,7 @@ causes and consequences at the population level.
 | 11:20 | 11:30 | Setting the optimal screening interval for diabetic retinopathy using an individualised approach | Sasja Maria Pedersen |
 | 11:30 | 12:00 | Linking clinical practice and diabetes epidemiology – the Scottish experience | Sarah Wild |
 | *12:00* | *13:00* | *Lunch* | *-* |
-| 13:00 | 13:20 | The Norwegian Diabetes Register | Hanne Løvdal Gulseth |
+| 13:00 | 13:20 | Diabetes in Norway – trends, challenges and possibilities | Hanne Løvdal Gulseth |
 | 13:20 | 13:30 | The DD2 Cohort: From Register Prediction to Precision Diagnostics of Type 2 diabetes | Jens Steen Nielsen |
 | 13:30 | 13:40 | When to start, how to classify, and whom to include: A methodological review of the clone-censor-weight approach evaluating the effect of timing of glucose-lowering treatment initiation | Sia Nicolaisen |
 | 13:40 | 13:50 | The Role of Type 2 Diabetes in Shaping Multimorbidity Progression: Evidence from the UK Biobank Cohort | Jie Zhang |
