@@ -64,7 +64,7 @@ direction of our public health policies and setup of clinical attention.
 
 Demographic analyses based on routinely registered data with
 population-wide coverage have provided an excellent way of obtaining
-these important insights. However, even amongst countries with
+these important insights. However, even among countries with
 well-developed register systems there are differences that make it
 difficult to generate direct comparisons.
 
